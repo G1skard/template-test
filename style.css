@@ -6,7 +6,6 @@ html {
 
 body {
   margin: 0;
-  /*viewport height. Full size of the screen*/
+  /*viewport height. Esta unidad esta basada en el alto de vista de la ventana*/
   min-height: 100vh;
-  background-color: darkgray;
 }
